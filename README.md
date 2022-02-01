@@ -51,7 +51,7 @@ The goal of this task is to propose different approaches to generate vector repr
 | 2     | Bert Large | Linear SVC | 72.56% | 
 | 3     | Bio Bert | LLinear SVC | 89.02% | 
 | 4     | Bio Clinical Bert | Linear SVC | 90.24% |
-| 5     | PubMed Bert | Linear SVC| 93.29 | 
+| 5     | PubMed Bert | Linear SVC| 93.29% | 
 
 
 ## Refrences:
